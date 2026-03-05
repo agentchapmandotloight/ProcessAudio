@@ -1,3 +1,4 @@
+Decrypt via below, but you'll need the password
 ```
 openssl aes-256-cbc -d -a -in FILE.txt.enc -out FILE.txt
 ```

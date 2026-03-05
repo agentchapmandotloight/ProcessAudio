@@ -1,4 +1,5 @@
 #!/bin/bash
+# You'll need FFmpeg to run the `process_audio.sh` script - install via `brew install ffmpeg`
 # Example Usage:
 # ./process_audio.sh hint1.wav
 
